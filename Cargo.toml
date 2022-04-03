@@ -1,0 +1,10 @@
+[package]
+name = "overdrive"
+version = "0.1.0"
+authors = ["Yernende <yernende@gmail.com>"]
+
+[dependencies]
+hound = "3.4.0"
+rustfft = "2.1.0"
+csv = "1"
+statrs = "0.10.0"
